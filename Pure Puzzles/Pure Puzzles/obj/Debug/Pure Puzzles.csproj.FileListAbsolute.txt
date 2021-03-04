@@ -1,0 +1,7 @@
+C:\Users\Theodor\source\repos\Pure Puzzles\Pure Puzzles\obj\Debug\Pure Puzzles.csprojAssemblyReference.cache
+C:\Users\Theodor\source\repos\Pure Puzzles\Pure Puzzles\obj\Debug\Pure Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\source\repos\Pure Puzzles\Pure Puzzles\bin\Debug\Pure Puzzles.exe.config
+C:\Users\Theodor\source\repos\Pure Puzzles\Pure Puzzles\bin\Debug\Pure Puzzles.exe
+C:\Users\Theodor\source\repos\Pure Puzzles\Pure Puzzles\bin\Debug\Pure Puzzles.pdb
+C:\Users\Theodor\source\repos\Pure Puzzles\Pure Puzzles\obj\Debug\Pure Puzzles.exe
+C:\Users\Theodor\source\repos\Pure Puzzles\Pure Puzzles\obj\Debug\Pure Puzzles.pdb

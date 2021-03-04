@@ -1,0 +1,7 @@
+C:\Users\Theodor\source\repos\3-6\3-6\bin\Debug\3-6.exe.config
+C:\Users\Theodor\source\repos\3-6\3-6\bin\Debug\3-6.exe
+C:\Users\Theodor\source\repos\3-6\3-6\bin\Debug\3-6.pdb
+C:\Users\Theodor\source\repos\3-6\3-6\obj\Debug\3-6.csprojAssemblyReference.cache
+C:\Users\Theodor\source\repos\3-6\3-6\obj\Debug\3-6.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\source\repos\3-6\3-6\obj\Debug\3-6.exe
+C:\Users\Theodor\source\repos\3-6\3-6\obj\Debug\3-6.pdb

@@ -1,0 +1,7 @@
+C:\Users\Theodor\source\repos\DrawCross\DrawCross\bin\Debug\DrawCross.exe.config
+C:\Users\Theodor\source\repos\DrawCross\DrawCross\bin\Debug\DrawCross.exe
+C:\Users\Theodor\source\repos\DrawCross\DrawCross\bin\Debug\DrawCross.pdb
+C:\Users\Theodor\source\repos\DrawCross\DrawCross\obj\Debug\DrawCross.csprojAssemblyReference.cache
+C:\Users\Theodor\source\repos\DrawCross\DrawCross\obj\Debug\DrawCross.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\source\repos\DrawCross\DrawCross\obj\Debug\DrawCross.exe
+C:\Users\Theodor\source\repos\DrawCross\DrawCross\obj\Debug\DrawCross.pdb

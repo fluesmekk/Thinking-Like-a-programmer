@@ -1,0 +1,7 @@
+C:\Users\Theodor\source\repos\Longest Word Counter\Longest Word Counter\bin\Debug\Longest Word Counter.exe.config
+C:\Users\Theodor\source\repos\Longest Word Counter\Longest Word Counter\bin\Debug\Longest Word Counter.exe
+C:\Users\Theodor\source\repos\Longest Word Counter\Longest Word Counter\bin\Debug\Longest Word Counter.pdb
+C:\Users\Theodor\source\repos\Longest Word Counter\Longest Word Counter\obj\Debug\Longest Word Counter.csprojAssemblyReference.cache
+C:\Users\Theodor\source\repos\Longest Word Counter\Longest Word Counter\obj\Debug\Longest Word Counter.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\source\repos\Longest Word Counter\Longest Word Counter\obj\Debug\Longest Word Counter.exe
+C:\Users\Theodor\source\repos\Longest Word Counter\Longest Word Counter\obj\Debug\Longest Word Counter.pdb

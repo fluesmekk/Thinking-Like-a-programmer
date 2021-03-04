@@ -1,0 +1,7 @@
+C:\Users\Theodor\source\repos\Thinking like a programmer, Katpitell 3\Thinking like a programmer, Katpitell 3\obj\Debug\Thinking like a programmer, Katpitell 3.csprojAssemblyReference.cache
+C:\Users\Theodor\source\repos\Thinking like a programmer, Katpitell 3\Thinking like a programmer, Katpitell 3\obj\Debug\Thinking like a programmer, Katpitell 3.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\source\repos\Thinking like a programmer, Katpitell 3\Thinking like a programmer, Katpitell 3\bin\Debug\Thinking like a programmer, Katpitell 3.exe.config
+C:\Users\Theodor\source\repos\Thinking like a programmer, Katpitell 3\Thinking like a programmer, Katpitell 3\bin\Debug\Thinking like a programmer, Katpitell 3.exe
+C:\Users\Theodor\source\repos\Thinking like a programmer, Katpitell 3\Thinking like a programmer, Katpitell 3\bin\Debug\Thinking like a programmer, Katpitell 3.pdb
+C:\Users\Theodor\source\repos\Thinking like a programmer, Katpitell 3\Thinking like a programmer, Katpitell 3\obj\Debug\Thinking like a programmer, Katpitell 3.exe
+C:\Users\Theodor\source\repos\Thinking like a programmer, Katpitell 3\Thinking like a programmer, Katpitell 3\obj\Debug\Thinking like a programmer, Katpitell 3.pdb
